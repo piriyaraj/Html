@@ -1,0 +1,27 @@
+body{
+
+}
+nav{
+   background-color: gray;
+   margin-bottom: 15px;
+   align-content: center;
+   font-weight:bold;
+   padding-bottom:0px;
+}
+.content>div{
+   background-color: gray;
+   margin-left: 10px;
+   height: 1000px;
+   margin-bottom: 20px;
+}
+.col-lg-4{
+   padding: 0;
+   margin: 0;
+
+}
+.bg{
+   border: 2px solid black;
+}
+h1{
+   text-align: center;
+}
