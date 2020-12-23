@@ -1,0 +1,99 @@
+
+
+      <style media="screen">
+         .washare{
+            outline: none;
+            display: block;
+            margin-left: auto;
+            margin-right:auto;
+            border: 4px solid darkgreen;
+            font-size: 40px;
+            background-color:#3caf50;
+            border-radius:10px;
+            font-weight: bolder;
+            font-family:sans-serif;
+            box-shadow: 4px 5px yellow;
+
+         }
+         .washare:focus{
+            background-color:lightblue;
+            border-radius:20px;
+         }
+         .washare:active{
+            box-shadow: 4px 3px yellow;
+            transform: translatey(4px);
+         }
+        #wajoin{
+           font-weight: bolder;
+           display: block;
+           margin-left: auto;
+           margin-right:auto;
+           margin-top: 30px;
+           margin-bottom: 30px;
+           padding: 0px;
+           font-size: 40px;
+           text-align:center;
+           width: 200px;
+           border: 2px solid red;
+           border-radius: 20px;
+           font-size: 20px;
+
+        }
+        #wajoin1 {
+           width: 200px;
+           display: block;
+           margin-left: auto;
+           margin-right:auto;
+           border: none;
+           text-align: center;
+           font-size: 16px;
+          }
+          img{
+             height:auto;
+          }
+      </style>
+
+
+   <!-- page direct texts -->
+   <br /><br />
+   <div id="dirtext"></div> <br /><br />
+   <div style="text-align: center;">
+   <h2>Steps to Join</h2>
+   <h2>1.click and share with one group</h2>
+   </div>
+   <button class="washare" name="button" onclick="washare()" type="button">Share</button>
+   <div id="wajoin" style="background-color: #4caf20;"></div>
+   <h2 style="text-align: center;">2.wait until join button appear</h2>
+   <a class="washare" href="" id="wajoin1" target="_blank"></a>
+   <!-- group link -->
+   <script type="text/javascript">
+      var gplink="https://chat.whatsapp.com/Fnon5E1kG9ND6UVzaAGH7c";
+
+      var actname=document.title.split(" WHATSAPP")[0];
+      var conttext="TAMIL WHATSAPP GROUP LINKS, ACTRESS "+actname+" WHATSAPP GROUP LINK, TAMIL ACTRESS "+actname+" WHATSAPP GROUP LINK, ACTRESS "+actname+" WHATSAPP GROUP LINK, "+actname+" FANS WHATSAPP GROUP LINK, TAMIL ACTRESS "+actname+" WHATSAPP GROUP LINK JOIN LIST ACTRESS "+actname+" HD PHOTOS &amp; STILLS, "+actname+" HOT PHOTOS, TAMIL ACTRESS "+actname+" HOT PHOTO GALLERY, ACTRESS "+actname+" PHOTO &amp; IMAGES, TAMIL ACTRESS "+actname+" PHOTOSHOOT &amp; IMAGES, TAMIL ACTRESS "+actname+" HD BEAUTIFUL PHOTOS STILLS IMAGES WALLPAPERS PICTURES GALLERY";
+      document.getElementById("dirtext").innerHTML=conttext;
+
+
+      document.getElementById('wajoin1').href=gplink;
+      function washare() {
+          var link=window.location.href;
+          var url="whatsapp://send?text=  Join  "+document.getElementsByClassName('post-title')[0].innerText+" "+" New HOT PHOTOS "+link;
+          window.location=url;
+          var timeLeft = 30;
+          var elem = document.getElementById('wajoin');
+
+          var timerId = setInterval(countdown, 1000);
+
+          function countdown() {
+            if (timeLeft == -1) {
+              clearTimeout(timerId);
+              elem.innerHTML="";
+              var x="<h2>Join Now</h2>";
+               document.getElementById("wajoin1").innerHTML=x;
+            } else {
+              elem.innerHTML = 'Wait ' +timeLeft + ' seconds';
+              timeLeft--;
+            }
+         }
+      }
+   </script>
