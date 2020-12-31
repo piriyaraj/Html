@@ -1,0 +1,652 @@
+RANBIR KAPOOR WHATSAPP GROUP<br>BOLLYWOOD<p style="text-align: left;">Hi Everyone celebrity&nbsp;<b class="name">RANBIR KAPOOR</b><b>&nbsp;WhatsApp group links</b>&nbsp;fans groups photos and details&nbsp; You can find every thing about <span class="name">RANBIR KAPOOR</span>&nbsp;This is the right place to find <b><span class="name">RANBIR KAPOOR</span> WhatsApp group links</b>&nbsp;The join button link&nbsp;its redirected WhatsApp page and you will get all updates about <span class="name">RANBIR KAPOOR</span>&nbsp;Join the&nbsp;<span class="name">RANBIR KAPOOR</span> groups through the WhatsApp group link that we provide</p>
+<style media="screen">
+	.washare{
+		outline: none;
+		display: block;
+		margin-left: auto;
+		margin-right:auto;
+		border: 4px solid darkgreen;
+		font-size: 40px;
+		background-color:#3caf50;
+		border-radius:10px;
+		font-weight: bolder;
+		font-family:sans-serif;
+		box-shadow: 4px 5px yellow;
+
+	}
+	.washare:focus{
+		background-color:lightblue;
+		border-radius:20px;
+	}
+	.washare:active{
+		box-shadow: 4px 3px yellow;
+		transform: translatey(4px);
+	}
+	#wajoin{
+		font-weight: bolder;
+		display: block;
+		margin-left: auto;
+		margin-right:auto;
+		margin-top: 30px;
+		margin-bottom: 30px;
+		padding: 0px;
+		font-size: 40px;
+		text-align:center;
+		width: 200px;
+		border: 2px solid red;
+		border-radius: 20px;
+		font-size: 20px;
+
+	}
+	#wajoin1 {
+		width: 200px;
+		display: block;
+		margin-left: auto;
+		margin-right:auto;
+		border: none;
+		text-align: center;
+		font-size: 16px;
+	}
+	img{
+	 	height:auto;
+	}
+	#wajoin11:disabled{
+	  	background-color: #F00A0E;
+	}
+</style>
+
+
+   
+<div style="text-align: center;"><br />
+<h2>Steps to Join</h2>
+<h2>1. share with one WhatsApp group</h2>
+</div>
+<button class="washare" name="button" onclick="washare()" type="button">Share</button>
+<div id="wajoin" style="background-color: #4caf20;"></div>
+<h2 style="text-align: center;">2.wait until join button Enable</h2>
+<button class="washare" disabled="" id="wajoin11" onclick="linkopen()">Share First</button>
+
+<script type="text/javascript">
+	var actor_name=document.getElementsByClassName('post-title')[0].innerText.split(" WHATSAPP")[0];
+	var link_name=actor_name.replace(" ","_");
+	var gplink=window.location.href.split("/2")[0]+"/p/postlinks.html?name="+link_name+"?";
+
+
+	function linkopen(){
+	window.open(gplink, '_blank');
+	}
+
+        var count=0;
+
+	function washare() {
+		var link=window.location.href;
+		var url="whatsapp://send?text=Join  "+document.getElementsByClassName('post-title')[0].innerText+"%0D"+"For new hot photos,videos,biodata and latest news%0D"+link+"%0D%0D"+link+"%0D%0D"+link+"%0D%0D"+link+"%0D%0D"+link;
+		window.location=url;
+		
+                if(count==1){
+                    return 0;
+                }
+		count=1;
+
+
+		var timeLeft = 120;
+		var elem = document.getElementById('wajoin');
+
+		var timerId = setInterval(countdown, 1000);
+
+		function countdown() {
+
+			if (timeLeft == -1) {
+				clearTimeout(timerId);
+				elem.innerHTML="";
+
+				document.getElementById("wajoin11").removeAttribute("disabled");
+				document.getElementById("wajoin11").innerHTML="Join Now";
+			}
+			else {
+				if(timeLeft<115){
+					elem.innerHTML = 'Wait ' +timeLeft + ' seconds';
+					var m=timeLeft%4;
+					if(m==0){
+						logo=">>>";
+					}
+					else if(m==1){
+						logo=">>";
+					}
+					else if(m==2){
+						logo=">";
+					}
+					else{
+						logo=">>";
+					}
+					document.getElementById("wajoin11").innerHTML="Wait"+logo;
+				}
+
+				timeLeft--;
+			}
+		}
+	}
+</script>
+
+   <div style="text-align: center;">=============================================<span><!--more--></span></div><table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable aligncenter" style="border-collapse: collapse; height: 100%;" width="100%">
+<tbody>
+<tr>
+<td colspan="2" style="border: 1pt solid windowtext; padding: 0in 5.4pt; width: 450.8pt; height: 30px; vertical-align: middle; background: #0E600B;" valign="top" width="601">
+<h2 class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-size: 12pt;"><span><span style="color: white; font-family: 'times new roman', serif;">Ranbir Kapoor Biography  <span style="color: black;background: aqua; mso-highlight: aqua;">RANBIR KAPOOR WhatsApp Group</span></span></span></span></h2>
+</td>
+</tr>
+<tr style="height: 20.65pt; mso-yfti-irow: 1;">
+<td style="border: 1pt solid windowtext; height: 20.65pt; padding: 0in 5.4pt; width: 150.35pt; text-align: right; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-size: 12pt;"><span><span style="font-family: 'times new roman', serif;">Name</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 20.65pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', serif; font-size: 12pt;"><span>Ranbir Raj Kapoor</span></span></div>
+</td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-size: 12pt;"><span><span style="font-family: 'times new roman', serif;">Nick-name</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Daboo, Ganglu</span></div>
+</td>
+</tr>
+<tr style="height: 20.55pt; mso-yfti-irow: 3;">
+<td style="border: 1pt solid windowtext; height: 20.55pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif; font-size: 12pt;"><span>Sex</span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 20.55pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', serif;">Male</span></div>
+</td>
+</tr>
+<tr style="height: 20.85pt; mso-yfti-irow: 4;">
+<td style="border: 1pt solid windowtext; height: 20.85pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-size: 12pt;"><span><span style="font-family: 'times new roman', serif;">Date Of Birth</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 20.85pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman' , 'serif'; font-size: 12.0pt;">28 September 1982</span></div>
+</td>
+</tr>
+<tr style="height: 21.1pt; mso-yfti-irow: 5;">
+<td style="border: 1pt solid windowtext; height: 21.1pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span><span style="font-family: 'times new roman' , 'serif'; font-size: 12.0pt;">Age</span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21.1pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman' , 'serif'; font-size: 12.0pt;">36 Years (as in 2018)</span></div>
+</td>
+</tr>
+<tr style="height: 20.05pt; mso-yfti-irow: 6;">
+<td style="border: 1pt solid windowtext; height: 20.05pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif; font-size: 12pt;"><span>Profession / Occupation</span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 20.05pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Actor, Producer (Hindi)</span></div>
+</td>
+</tr>
+<tr style="height: 20.35pt; mso-yfti-irow: 7;">
+<td style="border: 1pt solid windowtext; height: 20.35pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif; font-size: 12pt;"><span>Mother Tongue</span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 20.35pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">Hindi</span></span></div>
+</td>
+</tr>
+<tr style="height: 26.0pt; mso-yfti-irow: 8;">
+<td style="border: 1pt solid windowtext; height: 26pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span><span style="font-family: 'times new roman' , 'serif'; font-size: 12.0pt;">Religion</span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 26pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">Hindu</span></span></div>
+</td>
+</tr>
+<tr style="height: 21.35pt; mso-yfti-irow: 9;">
+<td style="border: 1pt solid windowtext; height: 21.35pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span><span style="font-family: 'times new roman' , 'serif'; font-size: 12.0pt;">Nation</span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21.35pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">Indian</span></span></div>
+</td>
+</tr>
+<tr style="height: 21.35pt; mso-yfti-irow: 10;">
+<td style="border: 1pt solid windowtext; height: 21.35pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Caste</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21.35pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman' , 'serif'; font-size: 12.0pt;">Not Known</span></div>
+</td>
+</tr>
+<tr style="height: 21.35pt; mso-yfti-irow: 11;">
+<td style="border: 1pt solid windowtext; height: 21.35pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span><span style="font-family: 'times new roman' , 'serif'; font-size: 12.0pt;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">Zodiac </span></span></span></span><span style="font-family: times new roman, serif;"><span style="font-size: 16px;"><span>Sign</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21.35pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman' , 'serif'; font-size: 12.0pt;">Libra</span></div>
+</td>
+</tr>
+<tr style="height: 21.35pt; mso-yfti-irow: 11;">
+<td style="border: 1pt solid windowtext; height: 21.35pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span><span style="font-family: 'times new roman' , 'serif'; font-size: 12.0pt;">Height / Weight</span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21.35pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman' , 'serif'; font-size: 12.0pt;">6′ 0” / 78kg</span></div>
+</td>
+</tr>
+<tr style="height: 21.35pt; mso-yfti-irow: 12;">
+<td style="border: 1pt solid windowtext; height: 21.35pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif; font-size: 12pt;"><span style="line-height: normal;"><span>First Movie</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21.35pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman' , 'serif'; font-size: 12.0pt;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Saawariya (2007)</span></span></div>
+</td>
+</tr>
+<tr style="height: 21.35pt; mso-yfti-irow: 12;">
+<td style="border: 1pt solid windowtext; height: 21.35pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif; font-size: 12pt;"><span>First Debut Movie</span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21.35pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman' , 'serif'; font-size: 12.0pt;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Saawariya (2007)</span></span></div>
+</td>
+</tr>
+<tr style="height: 21.35pt; mso-yfti-irow: 12;">
+<td style="border: 1pt solid windowtext; height: 21.35pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif; font-size: 12pt;"><span>Money Factor</span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21.35pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">₹20-25 Crore/film</span></div>
+</td>
+</tr>
+</tbody>
+</table>, <table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable aligncenter" style="border-collapse: collapse; height: 100%;" width="100%">
+<tbody>
+<tr>
+<td colspan="2" style="border: 1pt solid windowtext; padding: 0in 5.4pt; width: 450.8pt; height: 30px; vertical-align: middle; background: #0E600B;" valign="top" width="601">
+<h2 class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-size: 12pt;"><span><span style="color: white; font-family: 'times new roman', serif;">Ranbir Kapoor Relatives  <span style="color: black;background: aqua; mso-highlight: aqua;">RANBIR KAPOOR WhatsApp Group</span></span></span></span></h2>
+</td>
+</tr>
+<tr style="height: 20.65pt; mso-yfti-irow: 1;">
+<td style="border: 1pt solid windowtext; height: 20.65pt; padding: 0in 5.4pt; width: 150.35pt; text-align: right; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Father</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 20.65pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Rishi Kapoor (Actor)</span></div>
+</td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Mother</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Neetu Singh (Actress)</span></div>
+</td>
+</tr>
+<tr style="height: 20.55pt; mso-yfti-irow: 3;">
+<td style="border: 1pt solid windowtext; height: 20.55pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Brothers</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 20.55pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman' , 'serif'; font-size: 12.0pt;">None</span></div>
+</td>
+</tr>
+<tr style="height: 21.35pt; mso-yfti-irow: 12;">
+<td style="border: 1pt solid windowtext; height: 21.35pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Sisters</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21.35pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Riddhima Kapoor Sahani</span></div>
+</td>
+</tr>
+<tr style="height: 21.35pt; mso-yfti-irow: 13; mso-yfti-lastrow: yes;">
+<td style="border: 1pt solid windowtext; height: 21.35pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Cousin Sisters</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21.35pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span ">Kareena Kapoor</span>, <span ">Karisma Kapoor</span> (Actress)</span></span></div>
+</td>
+</tr>
+<tr style="height: 21.35pt; mso-yfti-irow: 13; mso-yfti-lastrow: yes;">
+<td style="border: 1pt solid windowtext; height: 21.35pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Marital Status</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21.35pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">Unmarried</span></span></div>
+</td>
+</tr>
+<tr style="height: 21.35pt; mso-yfti-irow: 13; mso-yfti-lastrow: yes;">
+<td style="border: 1pt solid windowtext; height: 21.35pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Wife</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21.35pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman' , 'serif'; font-size: 12.0pt;">N/A</span></div>
+</td>
+</tr>
+<tr style="height: 21.35pt; mso-yfti-irow: 13; mso-yfti-lastrow: yes;">
+<td style="border: 1pt solid windowtext; height: 21.35pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Daughters</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21.35pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman' , 'serif'; font-size: 12.0pt;">N/A</span></div>
+</td>
+</tr>
+<tr style="height: 21.35pt; mso-yfti-irow: 13; mso-yfti-lastrow: yes;">
+<td style="border: 1pt solid windowtext; height: 21.35pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Sons</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21.35pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman' , 'serif'; font-size: 12.0pt;">N/A</span></td>
+</tr>
+<tr style="height: 21.35pt; mso-yfti-irow: 13; mso-yfti-lastrow: yes;">
+<td style="border: 1pt solid windowtext; height: 21.35pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Paternal Uncle</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21.35pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman' , 'serif'; font-size: 12.0pt;">Randhir Kapoor</span></td>
+</tr>
+<tr style="height: 21.35pt; mso-yfti-irow: 13; mso-yfti-lastrow: yes;">
+<td style="border: 1pt solid windowtext; height: 21.35pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Paternal Aunties</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21.35pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman' , 'serif'; font-size: 12.0pt;">Babita Shivdasani</span></td>
+</tr>
+<tr style="height: 21.35pt; mso-yfti-irow: 13; mso-yfti-lastrow: yes;">
+<td style="border: 1pt solid windowtext; height: 21.35pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Grandfather</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21.35pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman' , 'serif'; font-size: 12.0pt;">Raj Kapoor</span></td>
+</tr>
+<tr style="height: 21.35pt; mso-yfti-irow: 13; mso-yfti-lastrow: yes;">
+<td style="border: 1pt solid windowtext; height: 21.35pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Grandmother</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21.35pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman' , 'serif'; font-size: 12.0pt;">Krishna Kapoor</span></td>
+</tr>
+<tr style="height: 21.35pt; mso-yfti-irow: 13; mso-yfti-lastrow: yes;">
+<td style="border: 1pt solid windowtext; height: 21.35pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Girlfriends/ Affairs</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21.35pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span style="font-family: 'times new roman' , 'serif'; font-size: 12.0pt;">Nandita Mahtani (F.Designer), <span ">Deepika Padukone</span>, <span ">Katrina Kaif</span>, Alia Bhatt (Indian Actress)</span></span></span></td>
+</tr>
+</tbody>
+</table>, <table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable aligncenter" style="border-collapse: collapse; height: 100%;" width="100%">
+<tbody>
+<tr>
+<td colspan="2" style="border: 1pt solid windowtext; padding: 0in 5.4pt; width: 450.8pt; height: 30px; vertical-align: middle; background: #0E600B;" valign="top" width="601">
+<h2 class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span><span style="font-size: 12pt;"><span style="color: white; font-family: 'times new roman', serif;">Ranbir Kapoor Measurements  <span style="color: black;background: aqua; mso-highlight: aqua;">RANBIR KAPOOR WhatsApp Group</span></span></span></span></h2>
+</td>
+</tr>
+<tr style="height: 20.65pt; mso-yfti-irow: 1;">
+<td style="border: 1pt solid windowtext; height: 20.65pt; padding: 0in 5.4pt; width: 150.35pt; text-align: right; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">Height in Centimeters</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 20.65pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">183 cm</span></span></div>
+</td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">Height in Meters</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">1.83 m</span></span></div>
+</td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">Height in Feet Inches</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">6′ 0”</span></span></div>
+</td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">Weight</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">78kg</span></span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">Body Measurement</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">42-32-15</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">Chest Size</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">42 inches</span></span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">Waist Size</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">32 inches</span></span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">Biceps Size</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">15 inches</span></span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">Eye Colour</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">Dark Brown</span></span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">Hair Colour</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;">Black</span></span></td>
+</tr>
+</tbody>
+</table>, <table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable aligncenter" style="border-collapse: collapse; height: 100%;" width="100%">
+<tbody>
+<tr>
+<td colspan="2" style="border: 1pt solid windowtext; padding: 0in 5.4pt; width: 450.8pt; height: 30px; vertical-align: middle; background: #0E600B;" valign="top" width="601">
+<h2 class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-size: 12pt;"><span><span style="color: white; font-family: 'times new roman', serif;">Ranbir Kapoor Favorites  <span style="color: black;background: aqua; mso-highlight: aqua;">RANBIR KAPOOR WhatsApp Group</span></span></span></span></h2>
+</td>
+</tr>
+<tr style="height: 20.65pt; mso-yfti-irow: 1;">
+<td style="border: 1pt solid windowtext; height: 20.65pt; padding: 0in 5.4pt; width: 150.35pt; text-align: right; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Colour</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 20.65pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">White, Black &amp; Red</span></div>
+</td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Actor</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><span>Bollywood</span>– Rishi Kapoor, Akshaye Khanna</span><br/>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><span>Hollywood</span>– Dustin Hoffman, Al Pacino</span></div>
+</td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Actress</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><span>Bollywood</span>– <span ">Kajol</span>, <span ">Madhuri Dixit</span></span><br/>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><span>Hollywood</span>– Jennifer Connelly, Natalie Portman</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Food</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Home made Food especially Bhindi, Jungli Mutton, Paya and Italian, Chinese</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Dessert</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Mishti Doi, Creme Brulee and Gulab Jamun</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Fruits</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Mosambi, Bananas, Water-Melon</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Restaurant</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Gajalee, Ling’s Pavillion</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Hobbies</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Playing Football, Travelling and Watching Movies</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Director</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Sanjay Leela Bhansali, Anurag Basu</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Movies</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><span>Bollywood</span>– Shree 420</span><br/>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><span>Hollywood</span>– Life is Beautiful</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Book</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Heavier Than Heaven by Charles R. Cross</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Cartoon</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Tom and Jerry</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Sport</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Football</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Football Team</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Barcelona</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Footballer</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Lionel Messi</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Destination</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">New York, USA, Venice, Puglia in Italy</span></td>
+</tr>
+</tbody>
+</table>, <table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable aligncenter" style="border-collapse: collapse; height: 100%;" width="100%">
+<tbody>
+<tr>
+<td colspan="2" style="border: 1pt solid windowtext; padding: 0in 5.4pt; width: 450.8pt; height: 30px; vertical-align: middle; background: #0E600B;" valign="top" width="601">
+<h2 class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-size: 12pt;"><span><span style="color: white; font-family: 'times new roman', serif;">Ranbir Kapoor Colleges  <span style="color: black;background: aqua; mso-highlight: aqua;">RANBIR KAPOOR WhatsApp Group</span></span></span></span></h2>
+</td>
+</tr>
+<tr style="height: 20.65pt; mso-yfti-irow: 1;">
+<td style="border: 1pt solid windowtext; height: 20.65pt; padding: 0in 5.4pt; width: 150.35pt; text-align: right; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Education Qualification</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 20.65pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">A Course on film making from the School of Visual Arts</span></div>
+</td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>School</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Bombay Scottish School, Mumbai</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', times, serif;"><span style="font-size: 16px;"><span>College / University</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">H.R. College of Commerce and Economics, Mumbai</span><br/>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;">School of Visual Arts, New York</span><br/>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Lee Strasberg Theatre and Film Institute, New York</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Others</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Not Known</span></td>
+</tr>
+</tbody>
+</table>, <table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable aligncenter" style="border-collapse: collapse; height: 100%;" width="100%">
+<tbody>
+<tr>
+<td colspan="2" style="border: 1pt solid windowtext; padding: 0in 5.4pt; width: 450.8pt; height: 30px; vertical-align: middle; background: #0E600B;" valign="top" width="601">
+<h2 class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-size: 12pt;"><span><span style="color: white; font-family: 'times new roman', serif;">Ranbir Kapoor Address  <span style="color: black;background: aqua; mso-highlight: aqua;">RANBIR KAPOOR WhatsApp Group</span></span></span></span></h2>
+</td>
+</tr>
+<tr style="height: 20.65pt; mso-yfti-irow: 1;">
+<td style="border: 1pt solid windowtext; height: 20.65pt; padding: 0in 5.4pt; width: 150.35pt; text-align: right; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Birth Place</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 20.65pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Mumbai, Maharashtra, India</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Home Town</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Mumbai, Maharashtra, India</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Present Residence</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Mumbai, Maharashtra, India</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>House Address</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Pali Hill, Bandra West, Mumbai (56 KrishnaRaj, Pali Hill, Bandra W, Mumbai</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Phone No / Mobile No</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Not Known</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Email ID</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Not Known</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Website</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Not Known</span></td>
+</tr>
+</tbody>
+</table>, <table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable aligncenter" style="border-collapse: collapse; height: 100%;" width="100%">
+<tbody>
+<tr>
+<td colspan="2" style="border: 1pt solid windowtext; padding: 0in 5.4pt; width: 450.8pt; height: 30px; vertical-align: middle; background: #0E600B;" valign="top" width="601">
+<h2 class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-size: 12pt;"><span><span style="color: white; font-family: 'times new roman', serif;">Ranbir Kapoor Achievements  <span style="color: black;background: aqua; mso-highlight: aqua;">RANBIR KAPOOR WhatsApp Group</span></span></span></span></h2>
+</td>
+</tr>
+<tr style="height: 20.65pt; mso-yfti-irow: 1;">
+<td style="border: 1pt solid windowtext; height: 20.65pt; padding: 0in 5.4pt; width: 150.35pt; text-align: right; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>National Filmfare Awards</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 20.65pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">2008: Best Male Debut for Saawariya </span><br/>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;">2010: Best Actor (Critics) for Wake Up Sid, Ajab Prem Ki Ghazab Kahani, Rocket Singh: Salesman of the Year</span><br/>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;">2012: Best Actor for Rockstar, Best Actor (Critics) for Rockstar</span><br/>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;">2013: Best Actor for Barfi!</span></td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Other Awards</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">2007: Sabsey Favourite Naya Hero for Saawariya at Star’s Sabsey Favourite Kaun Awards</span><br/>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;">2013: Screen Award for Best Actor (Popular Choice) for Barfi!</span></td>
+</tr>
+</tbody>
+</table>, <table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable aligncenter" style="border-collapse: collapse; height: 100%;" width="100%">
+<tbody>
+<tr>
+<td colspan="2" style="border: 1pt solid windowtext; padding: 0in 5.4pt; width: 450.8pt; height: 30px; vertical-align: middle; background: #0E600B;" valign="top" width="601">
+<h2 class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-size: 12pt;"><span><span style="color: white; font-family: 'times new roman', serif;">Ranbir Kapoor Social Media  <span style="color: black;background: aqua; mso-highlight: aqua;">RANBIR KAPOOR WhatsApp Group</span></span></span></span></h2>
+</td>
+</tr>
+<tr style="height: 20.65pt; mso-yfti-irow: 1;">
+<td style="border: 1pt solid windowtext; height: 20.65pt; padding: 0in 5.4pt; width: 150.35pt; text-align: right; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Twitter</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 20.65pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Not Known</span></div>
+</td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Facebook</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Not Known</span></div>
+</td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170">
+<div align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: left;"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Instagram</span></span></span></div>
+</td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431">
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Not Known</span></div>
+</td>
+</tr>
+<tr style="height: 21.0pt; mso-yfti-irow: 2;">
+<td style="border: 1pt solid windowtext; height: 21pt; padding: 0in 5.4pt; width: 127.35pt; vertical-align: middle;" valign="top" width="170"><span style="font-family: 'times new roman', serif;"><span style="font-size: 16px;"><span>Wikipedia</span></span></span></td>
+<td style="border-style: none solid solid none; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; height: 21pt; padding: 0in 5.4pt; width: 323.45pt; vertical-align: middle;" valign="top" width="431"><span "><a href="https://en.wikipedia.org/wiki/Ranbir_Kapoor" rel="noopener noreferrer" " target="_blank"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Ranbir_Kapoor</span></a></span></td>
+</tr>
+</tbody>
+</table><p class="MsoNormal" style="text-align: center;"><span style="color: black; mso-themecolor: text1;"><o:p>&nbsp;</o:p></span><span style="text-align: left;">==============================</span></p>
+<p class="MsoNormal" style="text-align: center;"><span style="text-align: left;">
+</span></p><p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="line-height: normal; mso-margin-bottom-alt: auto; mso-margin-top-alt: auto;"><span style="font-family: Georgia, serif;"><span style="font-size: 13.5pt;">RANBIR KAPOOR Fans </span><span style="font-size: 18px;">WhatsApp</span><span style="font-size: 13.5pt;">&nbsp;groups links, online jobs groups and promotion
+groups.</span></span><span style="font-family: &quot;Times New Roman&quot;, serif; font-size: 13.5pt;"><o:p></o:p></span></p><p class="MsoNormal"><o:p><br /></o:p></p><p class="MsoNormal"></p><h3 style="text-align: center;"><i>&nbsp;</i><span style="color: black;"><b><i> <span style="background-color: #04ff00;"><a href="https://www.whatsappgrouplinker.tk/p/sitemap.html" target="_blank">JOIN OTHER GROUPS</a></span></i></b></span><br /></h3><br /><p></p><p style="text-align: left;">If you have any suggestion or complaint about RANBIR KAPOOR WhatsApp group you can put it into the comment section .<br />and if you have WhatsApp group links for promote you also put the details in the comment.</p><p style="text-align: left;"><br />And you can add your WhatsApp groups here. if you want to add your groups you can add your WhatsApp group details and sent through the contact form.<br />You can promote your business also. contact now.<br /><span>&nbsp;</span><br /><span style="font-size: medium;">submit you link .</span></p><p style="text-align: left;"><span style="font-size: medium;">Limited Chance now you can add your WhatsApp group links in this site.<br /></span></p><div style="text-align: left;"><h3 style="text-align: center;"><span style="color: black;"><b><i>&nbsp;<span style="background-color: #04ff00;"><a href="https://www.whatsappgrouplinker.tk/p/add-your-whatsapp-group-links.html" target="_blank">Add Your WhatsApp Group</a></span></i></b></span></h3></div>

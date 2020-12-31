@@ -1,0 +1,16 @@
+1.scrapping no of posts in year from https://bikez.com/years/index.php
+	a.scarp year,no of post and save in text file
+
+2.checker for new posts from https://bikez.com/years/index.php
+	a.give alert if new post found
+
+2.scrapping links from years link (ex:https://bikez.com/year/2021-motorcycle-models.php)
+
+3.scrapping table form spcific bike link (ex:https://bikez.com/motorcycles/bmw_f_750_gs_2021.php)
+
+4.download image 
+	a.insert our logo on there logo
+	
+5.make a post using scrapped table
+	
+6.auto post in blogger
