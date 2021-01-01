@@ -14,11 +14,21 @@ import constant
 def getdata(url):
     reqs = requests.get(url)
     soup = BeautifulSoup(reqs.text, 'html.parser')
-    #print(soup.find_all('links'))
+    
              
-
+    #1907 Harley-Davidson Model X8 specifications and pictures
+    #Title:Harley-Davidson Model X8
+    #Tags: 1907 Harley-Davidson
 
     table=soup.find_all('table')[5]
+    
+    title=soup.title.text
+    tags=title.split()[0]+","+title.split()[1]
+    bike_name=title.replace(" specifications and pictures","").replace(title.split()[0]+" ","")
+    title=title.replace(" specifications and pictures","").replace(title.split()[0]+" ","")+" | Price, Photos, Millage, Speed, Colours etc.🏍"
+    descri="Find NAME price, speed, mileage, images, specifications, news, videos, Colours and variants information at BikeSpeci. More Details.🏍".replace("NAME",bike_name) 
+    print(title+"\n"+tags+"\n"+descri)
+    
     ind=str(table).index("Further")
     contant=str(table)[:ind-len("""<tr><th  colspan="2" style="background-color: #cccccc; text-align: center;"><a name="FURTHER"></a>""")]
     for i in table.findAll('a'):
@@ -42,9 +52,12 @@ def getdata(url):
     #remove rating
     rate_ind_start=contant.index("<tr><td style=\"vertical-align:top;width:40%;\"><b>Rating")
     rate_ind_end  =contant[rate_ind_start:].index("</tr>")
-    print(rate_ind_start,rate_ind_end)
+    #print(rate_ind_start,rate_ind_end)
     remove_rating=(contant[rate_ind_start:rate_ind_end+rate_ind_start+5])
     contant=contant.replace(remove_rating,"")
+    contant=contant.replace("moped","")
+    
+    contant=contant.replace("bike_name",title)
     pyperclip.copy(contant)
     return contant
 
