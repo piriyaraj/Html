@@ -60,7 +60,7 @@ function clickOn(id) {
 
 }
 function loadMorelink(tableName, lastcount, loadButtonid) {
-    alert(tableName,loadButtonid);
+//     alert(tableName,loadButtonid);
     var sectionId = tableName;
     tableName = tableName.split("sectionId")[0];
 
@@ -80,7 +80,7 @@ function loadMorelink(tableName, lastcount, loadButtonid) {
                 break;
             }
             var k = tableRow[t];
-            var url = dataRow[k].groupLink;
+            var url = "https://bikespeci.blogspot.com/p/gateway.html?walink="+dataRow[k].groupLink;
             var name = dataRow[k].groupName;
             var image = dataRow[k].groupImage;
             insertRow(name, url, image, tableName + "sectionId");
@@ -118,7 +118,7 @@ function gotData(data) {
                     break;
                 }
                 var k = tableRow[t];
-                var url = dataRow[k].groupLink;
+                var url = "https://bikespeci.blogspot.com/p/gateway.html?walink="+dataRow[k].groupLink;
                 var name = dataRow[k].groupName;
                 var image = dataRow[k].groupImage;
                 insertRow(name, url, image, i + "sectionId");
