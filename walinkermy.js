@@ -1,4 +1,3 @@
-
 // Your web app's Firebase configuration
 var firebaseConfig = {
     apiKey: "AIzaSyBLD6K3MZOIc-8CCh1bd3miCp1sp09oPJI",
@@ -12,16 +11,16 @@ var firebaseConfig = {
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
 
-function insertRow(groupName, groupLink, image, sectionId) {
+function insertRow(groupName, groupLink) {
     // alert(sectionId);
-    var body = document.getElementById(sectionId);
-    newdiv = document.createElement('div');   //create a div
+    var tbody = document.getElementById("tableBody");
+    newtr = document.createElement('tr');   //create a div
     // newdiv.id=sectionId;
-    var tag = "<a href=\"#groupsingle\" rel=\"modal:open\" onclick=\"singlegroup('" + groupLink + "','Country','" + groupName + "','1','https://realgrouplinks.com/icons/LxfbH6TFbkb0kcChPDsjuL_23872.jpg')\"><div id=\"single-group\"><br><div id=\"group-img\" style=\"background-image: url(" + image + ")\"></div><div class=\"gp-detials\"> <h2 style=\"line-height:20px;\" class=\"gname\">" + groupName + "</h2><br><span style=\"font-size: 15px;\">Country</span></div></div></a>";
+    var tag = "<td>"+groupName+"</td><td> <a href=\""+groupLink+"\" target=\"_blank\"><button name=\"button\" type=\"button\">Join Now</button></a></td>";
 
-    newdiv.innerHTML = tag;                    //add an id
-    body.appendChild(newdiv);                 //append to the doc.body
-    body.insertBefore(newdiv, body.lastChild)
+    newtr.innerHTML = tag;                    //add an id
+    tbody.appendChild(newtr);                 //append to the doc.body
+    tbody.insertBefore(newtr, tbody.lastChild)
 }
 function createTable(tableName, sectionId) {
 
@@ -39,30 +38,10 @@ function createTable(tableName, sectionId) {
     body.appendChild(newdiv);                 //append to the doc.body
     body.insertBefore(newdiv, body.lastChild)
 }
-function addLoadMoreButton(loadButtonid, sectionId, lastcount) {
-    var body = document.getElementById("groups-grid");
-    newbrdiv = document.createElement("div");
-    newbrdiv.innerHTML = "<br clear=\"all\">";
-    body.appendChild(newbrdiv);                 //append to the doc.body
-    body.insertBefore(newbrdiv, body.lastChild)
 
-    newbutton = document.createElement('div');   //create a div
-    newbutton.className = "center";
-    newbutton.innerHTML = "<button class=\"loadMore\" id=" + loadButtonid + " onclick=\"loadMorelink('" + sectionId + "'," + lastcount + ",'" + loadButtonid + "')\">Load More</button>";                 //add an id
-    body.appendChild(newbutton);                 //append to the doc.body
-    body.insertBefore(newbutton, body.lastChild);
-}
-function clickOn(id) {
-    tableName = id.split("sectionId")[0];
-
-    loadMorelink(tableName);
-
-
-}
-function loadMorelink(tableName, lastcount, loadButtonid) {
-//     alert(tableName,loadButtonid);
-    var sectionId = tableName;
-    tableName = tableName.split("sectionId")[0];
+function loadMorelink(lastcount) {
+    //     alert(tableName,loadButtonid);
+    tableName = document.title;
 
     firebase.database().ref(tableName).once("value", function (tableValue) {
         var dataRow = tableValue.val();
@@ -72,22 +51,22 @@ function loadMorelink(tableName, lastcount, loadButtonid) {
         for (var t = lastcount; t < tableRow.length; t++) {
 
             if (t == lastcount + 8) {
-                var loadMoreButton = document.getElementById(loadButtonid);
-                tag = "loadMorelink('" + sectionId + "'," + t + ",'" + loadButtonid + "')";
+                var loadMoreButton = document.getElementById("loadmoreGroup");
+                tag = "loadMorelink('"+ t + "')";
                 loadMoreButton.setAttribute('onclick', tag);
 
                 // addLoadMoreButton(tableName+"buttonid",t+"sectionId");
                 break;
             }
             var k = tableRow[t];
-            var url = "https://bikespeci.blogspot.com/p/gateway.html?walink="+dataRow[k].groupLink;
+            var url = "https://bikespeci.blogspot.com/p/gateway.html?walink=" + dataRow[k].groupLink;
             var name = dataRow[k].groupName;
             var image = dataRow[k].groupImage;
             insertRow(name, url, image, tableName + "sectionId");
             // console.log(name, url);
             if (t == tableRow.length - 1) {
                 // alert(t+" last link");
-                var loadMoreButton = document.getElementById(loadButtonid);
+                var loadMoreButton = document.getElementById("loadmoreGroup");
                 loadMoreButton.style.display = "none";
                 break;
             }
@@ -95,44 +74,35 @@ function loadMorelink(tableName, lastcount, loadButtonid) {
         // console.log(tableRow);
     });
 }
-function loadLinks(start) {
+function loadLinks() {
+    var i = "8 Ball Pool WhatsApp Groups Links";
+    document.getElementById("tableHead").innerText=i;
     database = firebase.database();
-    var ref = database.ref();
-    ref.on("value", gotData, errData);
-}
-function gotData(data) {
-    var x = 0;
-    var Tables = data.val();
-
-        var i=document.title;
-        x = x + 1;
-
-        createTable(i, i + "sectionId");
-        firebase.database().ref(i).once("value", function (tableValue) {
-            var dataRow = tableValue.val();
-            var tableRow = Object.keys(dataRow);
-            // console.log(tableValue);
-            for (var t = 0; t < tableRow.length; t++) {
-                if (t == 8) {
-                    addLoadMoreButton("buttonid" + x, i + "sectionId", t);
-                    break;
-                }
-                var k = tableRow[t];
-                var url = "https://bikespeci.blogspot.com/p/gateway.html?walink="+dataRow[k].groupLink;
-                var name = dataRow[k].groupName;
-                var image = dataRow[k].groupImage;
-                insertRow(name, url, image, i + "sectionId");
-                // console.log(name, url, image);
+    var ref = database.ref(i);
+    ref.once("value", function (tableValue){
+        // console.log(tableValue.val());
+        var dataRow = tableValue.val();
+        var tableRow = Object.keys(dataRow);
+        // console.log(tableRow);
+        // console.log(tableValue);
+        for (var t = 0; t < tableRow.length; t++) {
+            if (t == 8) {
+                // alert("hello");
+                document.getElementById("loadmoreGroup").style.display= "block";
+                var loadMoreButton = document.getElementById("loadmoreGroup");
+                tag = "loadMorelink('" + t + "')";
+                loadMoreButton.setAttribute('onclick', tag);
+                break;
             }
-            // console.log(tableRow);
-        });
+            var k = tableRow[t];
+            var url = "https://bikespeci.blogspot.com/p/gateway.html?walink=" + dataRow[k].groupLink;
+            var name = dataRow[k].groupName;
+            // var image = dataRow[k].groupImage;
+            insertRow(name, url);
+            // console.log(name, url);
+        }
+        // console.log(tableRow);
+    });
 
-
-
-}
-function errData(err) {
-    console.log("Error!");
-    console.log(err)
 }
 loadLinks();
-
