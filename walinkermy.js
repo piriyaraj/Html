@@ -105,23 +105,5 @@ function loadLinks() {
     });
 
 }
-function move() {
-    var elem = document.getElementById("myBar");
-    var width = 0;
-    var time = 10;
-    var id = setInterval(frame, 10*time);
-    function frame() {
-        if (width >= 100) {
-            clearInterval(id);
-            document.getElementById("tableDiv").style.display="block";
-            elem.style.display="none";
-        } else {
-            width++;
-            elem.style.width = width + '%';
-            elem.innerHTML = "Wait until load all links ";
 
-        }
-    }
-}
-move();
 loadLinks();
