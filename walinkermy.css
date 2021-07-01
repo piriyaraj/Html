@@ -1,0 +1,105 @@
+    .navbarpj {
+        top: 0;
+        background: #009879;
+        padding: 10px;
+        overflow: auto;
+        border-radius: 20px;
+    }
+
+    .navbarpj a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px;
+        margin-right: 2px;
+        text-decoration: none;
+        border: ridge thin #2A2828;
+        border-radius: 10px;
+        background: #7CC580
+    }
+
+    .navbarpj a:hover {
+        background: #ddd;
+        color: black;
+    }
+
+    .cont {
+        text-align: center;
+        background: #009879;
+        width: auto;
+        align-content: center;
+        margin: 0 auto;
+        display: table;
+        font-size: 20px;
+
+        border: thin double #E52427;
+        height: 50px;
+        width: 100px;
+        border-radius: 25px 25px 0 0;
+        font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+        color: white
+    }
+
+    button {
+        background: #7CC580;
+        color: white;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+
+    button:hover {
+        background: #ddd;
+        color: black;
+    }
+
+    button:focus {
+        background: #E52427;
+    }
+
+    .styled-table {
+        border-collapse: collapse;
+        margin: 5%;
+        font-size: 1em;
+        font-family: sans-serif;
+        min-width: 400px;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+        width: 90%;
+    }
+
+    .styled-table thead tr {
+        background-color: #009879;
+        color: #ffffff;
+        text-align: left;
+    }
+
+    .styled-table thead tr {
+        background-color: #009879;
+        color: #ffffff;
+        text-align: left;
+    }
+
+
+    .styled-table tbody tr {
+        border-bottom: 1px solid #dddddd;
+    }
+
+    .styled-table tbody tr:nth-of-type(even) {
+        background-color: #B9C9C5;
+    }
+
+    .styled-table tbody td:nth-of-type(odd) {
+        width: 60%;
+    }
+
+    .styled-table tbody td {
+        padding-right: 80px;
+    }
+
+    .styled-table tbody tr:last-of-type {
+        border-bottom: 2px solid #009879;
+    }
+
+    .styled-table th {
+        text-align: center;
+        font-size: 1.2em;
+    }
