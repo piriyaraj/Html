@@ -97,8 +97,15 @@
                 var url = "https://bikespeci.blogspot.com/p/gateway.html?walink=" + dataRow[k].groupLink;
                 var name = dataRow[k].groupName;
                 // var image = dataRow[k].groupImage;
-                if(typeof name == 'undefined')
+                if(typeof name == 'undefined'){
+                    var imgUrl = dataRow[k].url;
+                    if (typeof imgUrl != 'undefined')
+                        imgTag = document.getElementById("postImg")
+                        imgTag.src = imgUrl;
+
+                        imgTag.style.display = "block";
                     continue;
+                }
                 insertRow(name, url);
                 // console.log(name, url);
             }
