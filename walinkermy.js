@@ -97,8 +97,6 @@
                 var url = "https://bikespeci.blogspot.com/p/gateway.html?walink=" + dataRow[k].groupLink;
                 var name = dataRow[k].groupName;
                 // var image = dataRow[k].groupImage;
-                if(typeof name == 'undefined')
-                    continue;
                 insertRow(name, url);
                 // console.log(name, url);
             }
