@@ -21,22 +21,22 @@
         tbody.appendChild(newtr);                 //append to the doc.body
         tbody.insertBefore(newtr, tbody.lastChild)
     }
-    function createTable(tableName, sectionId) {
+//     function createTable(tableName, sectionId) {
 
-        var body = document.getElementById("groups-grid");
-        newbrdiv = document.createElement("div");
-        newbrdiv.innerHTML = "<br clear=\"all\">";
-        body.appendChild(newbrdiv);                 //append to the doc.body
-        body.insertBefore(newbrdiv, body.lastChild)
+//         var body = document.getElementById("groups-grid");
+//         newbrdiv = document.createElement("div");
+//         newbrdiv.innerHTML = "<br clear=\"all\">";
+//         body.appendChild(newbrdiv);                 //append to the doc.body
+//         body.insertBefore(newbrdiv, body.lastChild)
 
-        newdiv = document.createElement('div');   //create a div
-        newdiv.id = sectionId;
-        // ;
-        // var tag="<thead><tr><th colspan=\"2\" >"+tableName+"</th></tr></thead><tbody id="+rowId+"></tbody>";
-        newdiv.innerHTML = "<h2 class=\"styled-table\">" + tableName + "</h2>";                 //add an i
-        body.appendChild(newdiv);                 //append to the doc.body
-        body.insertBefore(newdiv, body.lastChild)
-    }
+//         newdiv = document.createElement('div');   //create a div
+//         newdiv.id = sectionId;
+//         // ;
+//         // var tag="<thead><tr><th colspan=\"2\" >"+tableName+"</th></tr></thead><tbody id="+rowId+"></tbody>";
+//         newdiv.innerHTML = "<h2 class=\"styled-table\">" + tableName + "</h2>";                 //add an i
+//         body.appendChild(newdiv);                 //append to the doc.body
+//         body.insertBefore(newdiv, body.lastChild)
+//     }
 
     function loadMorelink(lastcount) {
         //     alert(tableName,loadButtonid);
@@ -74,7 +74,7 @@
         });
     }
     function loadLinks() {
-        var i = "8 Ball Pool WhatsApp Groups Links";
+        var i = document.title;
         document.getElementById("tableHead").innerText = i;
         database = firebase.database();
         var ref = database.ref(i);
