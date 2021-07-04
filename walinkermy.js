@@ -20,7 +20,7 @@
         newtr.innerHTML = tag;                    //add an id
         tbody.appendChild(newtr);                 //append to the doc.body
         tbody.insertBefore(newtr, tbody.lastChild)
-
+    }
 
     function loadMorelink(lastcount) {
         //     alert(tableName,loadButtonid);
