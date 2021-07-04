@@ -20,23 +20,7 @@
         newtr.innerHTML = tag;                    //add an id
         tbody.appendChild(newtr);                 //append to the doc.body
         tbody.insertBefore(newtr, tbody.lastChild)
-    }
-//     function createTable(tableName, sectionId) {
 
-//         var body = document.getElementById("groups-grid");
-//         newbrdiv = document.createElement("div");
-//         newbrdiv.innerHTML = "<br clear=\"all\">";
-//         body.appendChild(newbrdiv);                 //append to the doc.body
-//         body.insertBefore(newbrdiv, body.lastChild)
-
-//         newdiv = document.createElement('div');   //create a div
-//         newdiv.id = sectionId;
-//         // ;
-//         // var tag="<thead><tr><th colspan=\"2\" >"+tableName+"</th></tr></thead><tbody id="+rowId+"></tbody>";
-//         newdiv.innerHTML = "<h2 class=\"styled-table\">" + tableName + "</h2>";                 //add an i
-//         body.appendChild(newdiv);                 //append to the doc.body
-//         body.insertBefore(newdiv, body.lastChild)
-//     }
 
     function loadMorelink(lastcount) {
         //     alert(tableName,loadButtonid);
@@ -58,7 +42,8 @@
                     break;
                 }
                 var k = tableRow[t];
-                var url = "https://bikespeci.blogspot.com/p/gateway.html?walink=" + dataRow[k].groupLink;
+//                 var url = "https://bikespeci.blogspot.com/p/gateway.html?walink=" + dataRow[k].groupLink;
+                var url = "https://chat.whatsapp.com/" + dataRow[k].groupLink;
                 var name = dataRow[k].groupName;
                 var image = dataRow[k].groupImage;
                 insertRow(name, url, image, tableName + "sectionId");
@@ -94,7 +79,8 @@
                     break;
                 }
                 var k = tableRow[t];
-                var url = "https://bikespeci.blogspot.com/p/gateway.html?walink=" + dataRow[k].groupLink;
+//                 var url = "https://bikespeci.blogspot.com/p/gateway.html?walink=" + dataRow[k].groupLink;
+                var url = "https://chat.whatsapp.com/" + dataRow[k].groupLink;
                 var name = dataRow[k].groupName;
                 // var image = dataRow[k].groupImage;
                 if(typeof name == 'undefined'){
