@@ -59,7 +59,7 @@
         });
     }
     function loadLinks() {
-        var i = document.title;
+        var i = document.title.split(" Whats")[0];
         document.getElementById("tableHead").innerText = i;
         database = firebase.database();
         var ref = database.ref(i);
