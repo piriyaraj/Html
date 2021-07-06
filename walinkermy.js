@@ -24,7 +24,7 @@
 
     function loadMorelink(lastcount) {
         //     alert(tableName,loadButtonid);
-        tableName = document.title.split("Whats")[0];
+        tableName = document.title.split(" Whats")[0];
 
         firebase.database().ref(tableName).once("value", function (tableValue) {
             var dataRow = tableValue.val();
