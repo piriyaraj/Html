@@ -25,7 +25,7 @@
 
     function loadMorelink(lastcount) {
         //     alert(tableName,loadButtonid);
-        tableName = document.title.split(" Whats")[0];
+        tableName = document.title.split(" Telegram Group Links")[0]+" Telegram Group Links";
 
         firebase.database().ref(tableName).once("value", function(tableValue) {
             var dataRow = tableValue.val();
@@ -43,7 +43,7 @@
                     break;
                 }
                 var k = tableRow[t];
-                var url = "https://bikespeci.blogspot.com/p/gateway.html?walink=" + dataRow[k].groupLink;
+                var url = "https://bikespeci.blogspot.com/p/gateway.html?telelink=" + dataRow[k].groupLink;
                 //                 var url = "https://chat.whatsapp.com/" + dataRow[k].groupLink;
                 var name = dataRow[k].groupName;
                 var image = dataRow[k].groupImage;
@@ -61,7 +61,7 @@
     }
 
     function loadLinks() {
-        var i = document.title.split(" Whats")[0];
+        var i = document.title.split(" Telegram Group Links")[0]+" Telegram Group Links";
         document.getElementById("tableHead").innerText = i;
         database = firebase.database();
         var ref = database.ref(i);
