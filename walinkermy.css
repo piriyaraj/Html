@@ -1,4 +1,10 @@
-    .navbarpj {
+body {
+  background-image: url('https://1.bp.blogspot.com/-IGbKJ6MKOJ8/YOnFk_YTeKI/AAAAAAAAT4Y/V6SKoaHMqh4rodp9PCzTNLjZWrdgEWwWwCNcBGAsYHQ/s0/background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}    
+.navbarpj {
         top: 0;
         background: #009879;
         padding: 10px;
