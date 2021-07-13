@@ -43,7 +43,7 @@
                 }
                 var k = tableRow[t];
 //                 var url = "https://bikespeci.blogspot.com/p/gateway.html?walink=" + dataRow[k].groupLink;
-                var url = "https://chat.whatsapp.com/" + dataRow[k].groupLink;/
+                var url = "https://chat.whatsapp.com/" + dataRow[k].groupLink;
                 var name = dataRow[k].groupName;
                 var image = dataRow[k].groupImage;
                 insertRow(name, url, image, tableName + "sectionId");
