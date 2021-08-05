@@ -25,7 +25,7 @@
 
     function loadMorelink(lastcount) {
         //     alert(tableName,loadButtonid);
-        tableName = document.title.split(" Telegram Group Links")[0]+" Telegram Group Links";
+        tableName = document.title.split(" Telegram Group Links")[0];
 
         firebase.database().ref(tableName).once("value", function(tableValue) {
             var dataRow = tableValue.val();
