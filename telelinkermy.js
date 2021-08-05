@@ -1,4 +1,31 @@
+<title>Football Telegram Group Links 2021 Active groups and channels</title>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://piriyaraj.github.io/Html/walinkermy.css">
 
+<h1>Football Telegram Group Links 2021 Active groups and channels</h1>
+<h2 style="font-size:15px" id="descripj"><em>Looking for the top famous Football telegram groups and Channels, then here is the top lists. Here you'll get Football groups and Channels links.</em></h2>
+
+<div id="tableDiv" style="display: none;">
+    <table class="styled-table">
+        <thead>
+            <tr>
+                <th colspan="2" id="tableHead"></th>
+            </tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+    </table>
+    <button style="display: none;" id="loadmoreGroup" name="button" type="button" onclick="loadMorelink();">LoadMore
+        Groups</button>
+
+</div>
+<div class="w3-light-grey">
+    <div id="myBar" class="w3-container w3-green w3-center" style="width:0%;max-height:20px ;">0%</div>
+</div>
+<img src="" alt="" style="display: none;" id="postImg" />
+<script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-database.js"></script>
+<!-- <script src="https://piriyaraj.github.io/Html/telelinkermy.js"></script> -->
+<script>
     var firebaseConfig = {
         apiKey: "AIzaSyCNPje1QfnH8Pg8oLzKYj_Guy1GaiiyWLs",
         authDomain: "telelinking-techfarm.firebaseapp.com",
@@ -61,7 +88,7 @@
     }
 
     function loadLinks() {
-        var i = document.title.split(" Telegram Group Links")[0]+" Telegram Group Links";
+        var i = document.title.split(" Telegram Group Links")[0];
         document.getElementById("tableHead").innerText = i;
         database = firebase.database();
         var ref = database.ref(i);
@@ -105,7 +132,7 @@
     function move() {
         var elem = document.getElementById("myBar");
         var width = 0;
-        var time = 10;
+        var time = 0;
         var id = setInterval(frame, 10 * time);
 
         function frame() {
@@ -123,3 +150,4 @@
     }
     move();
     loadLinks();
+</script>
