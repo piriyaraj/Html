@@ -77,7 +77,7 @@
                           </span>
                       </a>
                       <a style="color: #5a5a5a;font-family: fantasy;" target="_blank" href="groupLink" title="Telegram group invite link: groupName">
-                          <span>groupName</span>
+                          <h2>groupName</h2>
                       </a>
                   </div>
                   <div class="block2">
