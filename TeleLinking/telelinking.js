@@ -48,7 +48,7 @@
       newSection = document.createElement('section'); //create a div
       newSection.className = "LoadMoreLink";
       // newSection.id = "LoadMoreLink";
-      var tag = `<button id="LoadMoreLink"  style="display: none;">Load More Groups</button>`;
+      var tag = `<button id="LoadMoreLink" class="LoadMoreLink" style="display: none;">Load More Groups</button>`;
       newSection.innerHTML = tag;
       mainContent.appendChild(newSection); //append to the doc.body
       mainContent.insertBefore(newSection, mainContent.lastChild)
