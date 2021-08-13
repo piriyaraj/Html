@@ -19,7 +19,13 @@ vertical-align: top
 }
 
 .LoadMoreLink{
-    color:blue;
+    color: #ffffff;
+    width: 90%;
+    background-color: #0088cc;
+    margin: auto;
+    border: 0;
+    font-size: larger;
+    border-radius: 30px;
 }
 img {
 max-width: 100%
