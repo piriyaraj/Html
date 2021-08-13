@@ -18,6 +18,9 @@ text-decoration: none
 vertical-align: top
 }
 
+.LoadMoreLink{
+    color:blue;
+}
 img {
 max-width: 100%
 }
