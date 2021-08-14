@@ -73,7 +73,7 @@
   <div>
                       <a style="color: #5a5a5a" target="_blank" href="groupLink" title="Telegram group invite link: groupName">
                           <span>
-                              <img src="groupLogo" class="image"  alt="groupName">
+                              <img src="groupLogo" onerror="imgError(this);" class="image"  alt="groupName">
                           </span>
                       </a>
                       <a style="color: #5a5a5a;font-family: fantasy;" target="_blank" href="groupLink" title="Telegram group invite link: groupName">
@@ -104,7 +104,11 @@
                       </div>
                   </div>
   `;
-
+    function imgError(image) {
+        image.onerror = "";
+        image.src = "https://w7.pngwing.com/pngs/419/837/png-transparent-telegram-icon-telegram-logo-computer-icons-telegram-blue-angle-triangle-thumbnail.png";
+        return true;
+    }
   function insertBlock(groupName, groupLink, groupLogo, groupCount, groupType, groupDescri) {
       var resultDiv = document.getElementById("results");
       newDiv = document.createElement('div'); //create a div
