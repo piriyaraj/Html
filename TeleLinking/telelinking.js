@@ -127,7 +127,7 @@
 
   function loadMorelink(lastcount) {
       //     alert(tableName,loadButtonid);
-      tableName = document.title.split(" Telegram Group Links")[0];
+      tableName = document.title.split(" Telegram")[0];
 
       firebase.database().ref(tableName).once("value", function(tableValue) {
           var dataRow = tableValue.val();
@@ -166,7 +166,7 @@
   }
 
   function loadLinks() {
-      var i = document.title.split(" Telegram Group Links")[0];
+      var i = document.title.split(" Telegram")[0];
       // document.getElementById("tableHead").innerText = i;
       database = firebase.database();
       var ref = database.ref(i);
