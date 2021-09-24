@@ -73,7 +73,7 @@ function loadLinks() {
         var tableRow = Object.keys(dataRow);
         // console.log(tableRow);
         // console.log(tableValue);
-        for (var t = tableRow.length-1; t > 0; t--) {
+        for (var t = tableRow.length-1; t >= 0; t--) {
             // console.log("main",t);
 
             if (t == tableRow.length-9) {
