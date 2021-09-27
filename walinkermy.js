@@ -41,7 +41,7 @@ function loadMorelink(lastcount) {
                 loadMoreButton.style.display = "none";
                 break;
             }
-            if (t == tableRow.length -lastcount - 8) {
+            if (t == lastcount - 8) {
                 // alert(t);
                 var loadMoreButton = document.getElementById("loadmoreGroup");
                 tag = "loadMorelink('" + t + "')";
