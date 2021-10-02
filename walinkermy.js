@@ -1,3 +1,4 @@
+var directWaLink=1;
 var firebaseConfig = {
     apiKey: "AIzaSyBLD6K3MZOIc-8CCh1bd3miCp1sp09oPJI",
     authDomain: "whatsapp-group-linker.firebaseapp.com",
@@ -54,11 +55,12 @@ function loadMorelink(lastcount) {
                 break;
             }
             var k = tableRow[t];
-            // var url = "https://chat.whatsapp.com/" + dataRow[k].groupLink;
             var name = dataRow[k].groupName;
             var image = dataRow[k].groupImage;
             var url = "/p/whatsapp-join-link.html?walink=" + dataRow[k].groupLink + "&name=" + name;
-
+            if(directWaLink==1){
+                var url = "https://chat.whatsapp.com/" + dataRow[k].groupLink;
+            }
             insertRow(name, url, image, tableName + "sectionId");
             // console.log(name, url);
             
@@ -95,6 +97,9 @@ function loadLinks() {
             var name = dataRow[k].groupName;
             var url = "/p/whatsapp-join-link.html?walink=" + dataRow[k].groupLink + "&name=" + name;
             // var image = dataRow[k].groupImage;
+            if(directWaLink==1){
+                var url = "https://chat.whatsapp.com/" + dataRow[k].groupLink;
+            }
             if (typeof name == 'undefined') {
                 var imgUrl = dataRow[k].url;
                 if (typeof imgUrl != 'undefined')
