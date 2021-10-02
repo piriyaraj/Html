@@ -9,14 +9,17 @@ var firebaseConfig = {
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
-
+var groupNumber=1;
 function insertRow(groupName, groupLink) {
+    tableName = document.title.split(" Whats")[0];
+    // groupLink=groupLink+"?wa"
     // alert(sectionId);
+    groupName = tableName+" Group "+groupNumber;
     var tbody = document.getElementById("tableBody");
     newtr = document.createElement('tr');   //create a div
     // newdiv.id=sectionId;
     var tag = "<td>" + groupName + "</td><td> <a href=\"" + groupLink + "\" target=\"_blank\"><button name=\"button\" type=\"button\">Join Now</button></a></td>";
-
+    groupNumber++;
     newtr.innerHTML = tag;                    //add an id
     tbody.appendChild(newtr);                 //append to the doc.body
     tbody.insertBefore(newtr, tbody.lastChild)
@@ -28,7 +31,7 @@ function loadMorelink(lastcount) {
     firebase.database().ref(tableName).once("value", function (tableValue) {
         var dataRow = tableValue.val();
         var tableRow = Object.keys(dataRow);
-        // alert(tableRow.length, lastcount);
+        // console.log(tableRow.length, lastcount);
 
         // console.log(tableValue);
         // alert(tableRow.length);
@@ -51,10 +54,11 @@ function loadMorelink(lastcount) {
                 break;
             }
             var k = tableRow[t];
-            //                 var url = "https://bikespeci.blogspot.com/p/gateway.html?walink=" + dataRow[k].groupLink;
-            var url = "https://chat.whatsapp.com/" + dataRow[k].groupLink;
+            // var url = "https://chat.whatsapp.com/" + dataRow[k].groupLink;
             var name = dataRow[k].groupName;
             var image = dataRow[k].groupImage;
+            var url = "/p/whatsapp-join-link.html?walink=" + dataRow[k].groupLink + "&name=" + name;
+
             insertRow(name, url, image, tableName + "sectionId");
             // console.log(name, url);
             
@@ -87,8 +91,9 @@ function loadLinks() {
             }
             var k = tableRow[t];
             //                 var url = "https://bikespeci.blogspot.com/p/gateway.html?walink=" + dataRow[k].groupLink;
-            var url = "https://chat.whatsapp.com/" + dataRow[k].groupLink;
+            // var url = "https://chat.whatsapp.com/" + dataRow[k].groupLink;
             var name = dataRow[k].groupName;
+            var url = "/p/whatsapp-join-link.html?walink=" + dataRow[k].groupLink + "&name=" + name;
             // var image = dataRow[k].groupImage;
             if (typeof name == 'undefined') {
                 var imgUrl = dataRow[k].url;
@@ -109,7 +114,7 @@ function loadLinks() {
 function move() {
     var elem = document.getElementById("myBar");
     var width = 0;
-    var time = 10;
+    var time = 0;
     var id = setInterval(frame, 10 * time);
     function frame() {
         if (width >= 100) {
