@@ -114,7 +114,7 @@ function loadLinks() {
 function move() {
     var elem = document.getElementById("myBar");
     var width = 0;
-    var time = 0;
+    var time = 10;
     var id = setInterval(frame, 10 * time);
     function frame() {
         if (width >= 100) {
